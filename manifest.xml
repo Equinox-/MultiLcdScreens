@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>RemoteLcd</Name>
+  <Guid>9cdc7eea-c274-41bc-b5af-77291478f064</Guid>
+  <Version>v1.0.0</Version>
+</PluginManifest>
